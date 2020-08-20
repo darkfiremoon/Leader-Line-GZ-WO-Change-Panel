@@ -1,0 +1,27 @@
+p {
+  font-family: Lato;
+}
+
+button{
+  padding: 10px;
+  margin-right: 150px;
+  margin-bottom: 20px;
+}
+
+.container{
+  margin-bottom: 50px;
+}
+
+.inline{
+  display: inline-block;
+}
+
+td{
+  font-size: 10px;
+  padding: 2px;
+  width: 60px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2;}
+
+tr:hover {background-color: #ddd;}
